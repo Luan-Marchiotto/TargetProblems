@@ -1,0 +1,10 @@
+Chamarei de Interruptor A, B e C.
+
+Em primeiro momento, ligaria o Interruptor A e deixaria ligado por um tempo. 
+Logo após, desligaria o Interruptor A e ligaria o Interruptor B.
+Iria até a sala das lâmpadas.
+
+Identificação: 
+A lâmpada que estivesse acesa seria responsável por controlar o Interruptor B. 
+A lâmpada que estivesse desligada, porém com uma temperatura maior, seria responsável por controlar o Interruptor A. 
+Logo, a última lâmpada seria controlada pelo Interruptor C, sem precisar ir até lá.
